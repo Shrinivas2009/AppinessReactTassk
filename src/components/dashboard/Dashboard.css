@@ -1,0 +1,18 @@
+.ListOfData {
+}
+ul {
+	padding: 0;
+	width: 50%;
+	margin: 0 auto;
+	overflow: hidden;
+	border: 1px solid #ccc;
+}
+ul li {
+	list-style-type: none;
+	width: auto;
+	float: left;
+	padding: 20px 15px;
+}
+h1 {
+	text-align: center;
+}
